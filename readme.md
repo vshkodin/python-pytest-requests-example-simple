@@ -1,4 +1,4 @@
-## Simple example of Test Framework for API using Python Pytest Requests
+## Simple example of Test Framework for API using Python, Pytest, Requests
 
 ### install
 ```
